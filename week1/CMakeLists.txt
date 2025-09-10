@@ -4,6 +4,7 @@ project(week1 VERSION 0.1.0 LANGUAGES C CXX)
 
 
 include_directories(include)
+# Telling the compiler to get week1 from src folder
 add_executable(week1_cpp src/week1.cpp)
 
 # Set C++17 standard for the target
