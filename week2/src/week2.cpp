@@ -11,9 +11,9 @@ int main() {
     //==============
     //======== 1
     //==============
-    std::cout << "hello, world\n";
+    std::cout << "hello, woooorld\n";
     // undefined_function();
-    return 0;
+    // return 0;                // When uncommented, lines below will not run
 
     //==============
     //======== 2
@@ -35,9 +35,9 @@ int main() {
     //==============
     //======== 4
     //==============
-    //     int number = 20;
-    //     std::cout << &number << '\n';
-    //     std::cout << number << '\n';
+        // int number = 20;
+        // std::cout << &number << '\n';
+        // std::cout << number << '\n';
 
     //==============
     //======== 5
@@ -48,9 +48,9 @@ int main() {
     //     number = 2;                  // assignment
     //     std::cout << number << '\n'; // 2
 
-    //==============
-    //======== 6
-    //==============
+    // ==============
+    // ======== 6
+    // ==============
     // int a{};                                                      // initialized to 0
     // std::cout << a << '\n';                                       // 0
     // double b{};                                                   // initialized to 0.0
