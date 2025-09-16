@@ -9,7 +9,7 @@ set(CMAKE_BUILD_TYPE Debug)
 add_compile_options(-Wall -Wextra)
 
 # Optionally add all lecture subdirectories
-
-#add_subdirectory(week1)
+# add_subdirectory(week1)
 add_subdirectory(week2)
-
+# add_subdirectory(week3)
+# add_subdirectory(reading_material)
